@@ -24,3 +24,4 @@ def bilgan(bilangan):
 print ("bilangan = ",bil(x))
 print ("genap = ", bilgan(bilangan))
 print ("ganjil = ", bilgan(bilangan))
+
