@@ -1,6 +1,6 @@
 # list-dalam-phyton
 # bilangan genap ganjil
-x=int(input("banyaknya bilangan : "))
+x=int(input("banyaknya bilangan : ")) <br>
 bilangan=[]
 genap=[]
 ganjil=[]
